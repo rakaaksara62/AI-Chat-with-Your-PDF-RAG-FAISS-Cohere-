@@ -1,0 +1,15 @@
+# UI
+streamlit
+
+# PDF parsing
+PyPDF2
+
+# Embedding & LLM
+cohere
+python-dotenv
+
+# Vector store
+faiss-cpu
+
+# Optional: agar tidak error di Windows
+numpy
